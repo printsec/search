@@ -7,8 +7,8 @@ Simple python3 script that lets you use google from your terminal :D
 
 
 `
-git clone https://github.com/printsec/search.git
-chmod +x setup.sh
-./setup.sh
-python3 search.py
+* git clone https://github.com/printsec/search.git
+* chmod +x setup.sh
+* ./setup.sh
+* python3 search.py
 
